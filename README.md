@@ -1,6 +1,6 @@
 ## Hello World 🖖
 
-## Sobre Min
+## Sobre Mim
 - Nome: Gean Bressan
 - Idade: 22
 
